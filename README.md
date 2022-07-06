@@ -16,9 +16,10 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/made-with-vanila-html-and-css-flexbox-and-media-quaries-7aVaa-FkjT)
-- Live Site URL: [Live site](https://muazzy.github.io/feature-section/)
+- Live Site URL: [Live site](https://muazzy.github.io/clipboard-landing-page/)
 
 ### Built with
 
 - Semantic HTML5 markup
+- Bootstrap 4
 - CSS Flexbox
