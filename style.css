@@ -195,6 +195,14 @@ a {
     padding: 0.7rem 0.5rem;
 }
 
+.footer a {
+    color: var(--Dark-Grayish-Blue);
+}
+
+.footer a:hover,
+.footer .contact img:hover {
+    color: var(--Strong-Cyan);
+}
 
 @media (max-width: 993px) {
     p {
